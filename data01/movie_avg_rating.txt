@@ -1,0 +1,1664 @@
+Kolya (1996)	3.9914529914529915
+L.A. Confidential (1997)	4.161616161616162
+Heavyweights (1994)	2.1538461538461537
+Legends of the Fall (1994)	3.45679012345679
+Jackie Brown (1997)	3.642857142857143
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)	4.252577319587629
+Hunt for Red October, The (1990)	3.8634361233480177
+Jungle Book, The (1994)	3.5647058823529414
+Grease (1978)	3.347058823529412
+Remains of the Day, The (1993)	3.94
+Men in Black (1997)	3.745874587458746
+Romy and Michele's High School Reunion (1997)	3.061224489795918
+Star Trek: First Contact (1996)	3.66027397260274
+To Wong Foo, Thanks for Everything! Julie Newmar (1995)	2.8947368421052633
+Batman Forever (1995)	2.6666666666666665
+Only You (1994)	3.1538461538461537
+Age of Innocence, The (1993)	3.3846153846153846
+Sabrina (1995)	3.5
+Just Cause (1995)	3.142857142857143
+Endless Summer 2, The (1994)	2.5
+Man Without a Face, The (1993)	3.5441176470588234
+Sabrina (1954)	3.796875
+Die Hard (1988)	3.8724279835390947
+Twister (1996)	3.2150170648464163
+Toy Story (1995)	3.8783185840707963
+Broken Arrow (1996)	3.031496062992126
+Aladdin (1992)	3.8127853881278537
+Casper (1995)	3.076923076923077
+Restoration (1995)	3.464788732394366
+Jaws (1975)	3.775
+Chasing Amy (1997)	3.8390501319261214
+Silence of the Lambs, The (1991)	4.28974358974359
+Right Stuff, The (1983)	3.917197452229299
+Sleepless in Seattle (1993)	3.539906103286385
+Sting, The (1973)	4.058091286307054
+Curdled (1996)	2.75
+Rear Window (1954)	4.3875598086124405
+Speechless (1994)	3.0833333333333335
+Crumb (1994)	3.7901234567901234
+French Twist (Gazon maudit) (1995)	3.2051282051282053
+Fly Away Home (1996)	3.6
+Trigger Effect, The (1996)	3.2
+Tales from the Hood (1995)	2.037037037037037
+Cop Land (1997)	3.3771428571428572
+Evil Dead II (1987)	3.5168539325842696
+Beautiful Thing (1996)	3.9655172413793105
+Last of the Mohicans, The (1992)	3.546875
+Get Shorty (1995)	3.550239234449761
+Kiss the Girls (1997)	3.4615384615384617
+Fargo (1996)	4.155511811023622
+Fantasia (1940)	3.7701149425287355
+Murder at 1600 (1997)	3.0871559633027523
+Return of the Jedi (1983)	4.007889546351085
+Dead Poets Society (1989)	3.9163346613545817
+Conan the Barbarian (1981)	3.046728971962617
+Naked Gun 33 1/3: The Final Insult (1994)	2.782608695652174
+Sound of Music, The (1965)	3.765765765765766
+E.T. the Extra-Terrestrial (1982)	3.8333333333333335
+Boot, Das (1981)	4.203980099502488
+Angels and Insects (1995)	3.4166666666666665
+Scream (1996)	3.4414225941422596
+Nightmare on Elm Street, A (1984)	3.171171171171171
+Ben-Hur (1959)	3.8306451612903225
+City of Lost Children, The (1995)	3.7916666666666665
+Brothers McMullen, The (1995)	3.452054794520548
+Young Guns (1988)	3.207920792079208
+To Kill a Mockingbird (1962)	4.292237442922374
+Wings of Desire (1987)	4.0
+Mr. Holland's Opus (1995)	3.7781569965870307
+House Arrest (1996)	2.52
+Old Yeller (1957)	3.484375
+Jean de Florette (1986)	4.109375
+Seven Years in Tibet (1997)	3.458064516129032
+Grosse Pointe Blank (1997)	3.675
+That Darn Cat! (1965)	2.473684210526316
+Copycat (1995)	3.302325581395349
+Star Trek III: The Search for Spock (1984)	3.111111111111111
+Jerry Maguire (1996)	3.7109375
+North by Northwest (1959)	4.284916201117318
+Outbreak (1995)	3.2403846153846154
+Dangerous Minds (1995)	3.3404255319148937
+Miller's Crossing (1990)	3.651685393258427
+Batman (1989)	3.427860696517413
+Truth About Cats & Dogs, The (1996)	3.485294117647059
+Sword in the Stone, The (1963)	3.3292682926829267
+Bean (1997)	2.659340659340659
+Birdcage, The (1996)	3.4436860068259385
+Con Air (1997)	3.45985401459854
+Monty Python's Life of Brian (1979)	3.7471264367816093
+Sense and Sensibility (1995)	4.0111940298507465
+Backbeat (1993)	3.473684210526316
+African Queen, The (1951)	4.184210526315789
+Adventures of Priscilla, Queen of the Desert, The (1994)	3.5945945945945947
+This Is Spinal Tap (1984)	3.905759162303665
+Taxi Driver (1976)	4.1208791208791204
+Liar Liar (1997)	3.156701030927835
+Young Frankenstein (1974)	3.945
+Executive Decision (1996)	3.356687898089172
+Conspiracy Theory (1997)	3.4237288135593222
+It's a Wonderful Life (1946)	4.121212121212121
+Wizard of Oz, The (1939)	4.0772357723577235
+Raiders of the Lost Ark (1981)	4.252380952380952
+Terminator 2: Judgment Day (1991)	4.0067796610169495
+Willy Wonka and the Chocolate Factory (1971)	3.6319018404907975
+Devil's Advocate, The (1997)	3.515957446808511
+Quiet Man, The (1952)	4.029850746268656
+Muppet Treasure Island (1996)	2.761904761904762
+Bogus (1996)	2.5454545454545454
+Annie Hall (1977)	3.911111111111111
+Swimming with Sharks (1995)	3.574468085106383
+My Fair Lady (1964)	3.816
+In the Name of the Father (1993)	3.911764705882353
+Terminator, The (1984)	3.9335548172757475
+Shining, The (1980)	3.825242718446602
+True Lies (1994)	3.5625
+Amistad (1997)	3.8548387096774195
+Mimic (1997)	2.742574257425743
+Devil's Own, The (1997)	3.1083333333333334
+2001: A Space Odyssey (1968)	3.969111969111969
+My Family (1995)	3.6666666666666665
+Courage Under Fire (1996)	3.6108597285067874
+Pump Up the Volume (1990)	3.4177215189873418
+Homeward Bound: The Incredible Journey (1993)	3.2131147540983607
+Tales From the Crypt Presents: Demon Knight (1995)	2.9767441860465116
+One Fine Day (1996)	3.232142857142857
+Vertigo (1958)	4.251396648044692
+Bio-Dome (1996)	1.903225806451613
+Blue Sky (1994)	3.4166666666666665
+Get on the Bus (1996)	3.3157894736842106
+Ninotchka (1939)	3.769230769230769
+Good Will Hunting (1997)	4.262626262626263
+Father of the Bride Part II (1995)	2.8984375
+Roommates (1995)	3.230769230769231
+Postino, Il (1994)	3.9672131147540983
+Before Sunrise (1995)	3.4081632653061225
+Mary Poppins (1964)	3.7247191011235956
+Mission: Impossible (1996)	3.313953488372093
+Bonnie and Clyde (1967)	3.819672131147541
+Red Rock West (1992)	3.5961538461538463
+Rock, The (1996)	3.693121693121693
+Heat (1995)	3.569506726457399
+Interview with the Vampire (1994)	3.1824817518248176
+It Could Happen to You (1994)	3.652173913043478
+Dante's Peak (1997)	2.933333333333333
+Good, The Bad and The Ugly, The (1966)	3.8613138686131387
+Batman Returns (1992)	2.683098591549296
+GoldenEye (1995)	3.2061068702290076
+Big Night (1996)	3.9005847953216373
+Kazaam (1996)	1.8
+Abyss, The (1989)	3.589403973509934
+River Wild, The (1994)	3.143835616438356
+Ghost in the Shell (Kokaku kidotai) (1995)	3.6538461538461537
+Face/Off (1997)	3.768041237113402
+Birds, The (1963)	3.808641975308642
+Cool Runnings (1993)	3.161764705882353
+Fugitive, The (1993)	4.044642857142857
+Contact (1997)	3.8035363457760316
+Jackie Chan's First Strike (1996)	3.2551724137931033
+Jumanji (1995)	3.3125
+Cape Fear (1962)	3.5232558139534884
+Empire Strikes Back, The (1980)	4.204359673024523
+Assassins (1995)	2.871794871794872
+Canadian Bacon (1994)	2.413793103448276
+Clockers (1995)	3.0
+Chain Reaction (1996)	2.7
+When Harry Met Sally... (1989)	3.910344827586207
+Joe's Apartment (1996)	2.2444444444444445
+Jaws 2 (1978)	2.6666666666666665
+Three Colors: White (1994)	3.864406779661017
+Hoop Dreams (1994)	4.094017094017094
+Wonderland (1997)	3.2
+Firm, The (1993)	3.2781456953642385
+First Wives Club, The (1996)	3.01875
+Casablanca (1942)	4.45679012345679
+Saint, The (1997)	3.1234177215189876
+Mirror Has Two Faces, The (1996)	3.3636363636363638
+My Best Friend's Wedding (1997)	3.36046511627907
+Up Close and Personal (1996)	3.1882352941176473
+Groundhog Day (1993)	3.7642857142857142
+Close Shave, A (1995)	4.491071428571429
+Mars Attacks! (1996)	2.847926267281106
+Star Trek: The Wrath of Khan (1982)	3.8155737704918034
+Flirting With Disaster (1996)	3.6904761904761907
+Wag the Dog (1997)	3.510948905109489
+12 Angry Men (1957)	4.344
+Philadelphia Story, The (1940)	4.115384615384615
+Leave It to Beaver (1997)	1.8409090909090908
+Richard III (1995)	3.831460674157303
+Godfather, The (1972)	4.283292978208232
+Diabolique (1996)	2.887323943661972
+Forrest Gump (1994)	3.853582554517134
+Renaissance Man (1994)	3.0
+Tommy Boy (1995)	2.909090909090909
+Pete's Dragon (1977)	2.7209302325581395
+Pink Floyd - The Wall (1982)	3.3508771929824563
+Grumpier Old Men (1995)	3.0405405405405403
+Waterworld (1995)	2.803921568627451
+Mystery Science Theater 3000: The Movie (1996)	3.4307692307692306
+Delicatessen (1991)	3.876923076923077
+Schindler's List (1993)	4.466442953020135
+Speed (1994)	3.6478260869565218
+Pollyanna (1960)	3.1481481481481484
+What's Eating Gilbert Grape (1993)	3.5391304347826087
+Primal Fear (1996)	3.601123595505618
+Brady Bunch Movie, The (1995)	2.8026315789473686
+Mad City (1997)	3.25531914893617
+Real Genius (1985)	3.6638655462184873
+Crow, The (1994)	3.417910447761194
+Twelve Monkeys (1995)	3.798469387755102
+Tie Me Up! Tie Me Down! (1990)	3.1875
+Cape Fear (1991)	3.456140350877193
+Angels in the Outfield (1994)	2.923076923076923
+U Turn (1997)	3.359375
+Apostle, The (1997)	3.6545454545454548
+Lawnmower Man, The (1992)	2.4461538461538463
+Pulp Fiction (1994)	4.060913705583756
+Blade Runner (1982)	4.138181818181818
+20,000 Leagues Under the Sea (1954)	3.5
+Cliffhanger (1993)	3.021505376344086
+Gone with the Wind (1939)	3.871345029239766
+Fish Called Wanda, A (1988)	3.785425101214575
+Celluloid Closet, The (1995)	3.892857142857143
+Love Jones (1997)	3.0952380952380953
+Unhook the Stars (1996)	2.5
+Streetcar Named Desire, A (1951)	3.816326530612245
+Clueless (1995)	3.458823529411765
+Rudy (1993)	3.3125
+Fan, The (1996)	3.09375
+Seven (Se7en) (1995)	3.847457627118644
+Great Escape, The (1963)	4.104838709677419
+Jurassic Park (1993)	3.7203065134099615
+Dumbo (1941)	3.4959349593495936
+Four Rooms (1995)	3.033333333333333
+Kicking and Screaming (1995)	2.923076923076923
+Nikita (La Femme Nikita) (1990)	4.0078740157480315
+Grand Day Out, A (1992)	4.106060606060606
+Addiction, The (1995)	2.1818181818181817
+Singin' in the Rain (1952)	3.9927007299270074
+Shawshank Redemption, The (1994)	4.445229681978798
+One Flew Over the Cuckoo's Nest (1975)	4.291666666666667
+Maltese Falcon, The (1941)	4.2101449275362315
+People vs. Larry Flynt, The (1996)	3.5953488372093023
+Ulee's Gold (1997)	3.760869565217391
+Field of Dreams (1989)	3.69811320754717
+MatchMaker, The (1997)	3.176470588235294
+Fled (1996)	2.6470588235294117
+Back to the Future (1985)	3.834285714285714
+Kicked in the Head (1997)	2.5714285714285716
+Desperado (1995)	3.4536082474226806
+Glengarry Glen Ross (1992)	3.463768115942029
+Mother (1996)	3.1301775147928996
+Alien: Resurrection (1997)	3.096774193548387
+Star Trek VI: The Undiscovered Country (1991)	3.279503105590062
+Amadeus (1984)	4.163043478260869
+Afterglow (1997)	3.111111111111111
+Alien (1979)	4.034364261168385
+Circle of Friends (1995)	3.486842105263158
+Duck Soup (1933)	4.0
+Family Thing, A (1996)	3.5555555555555554
+Citizen Kane (1941)	4.292929292929293
+Tomorrow Never Dies (1997)	3.4277777777777776
+Unbearable Lightness of Being, The (1988)	3.4565217391304346
+When the Cats Away (Chacun cherche son chat) (1996)	3.5625
+Somewhere in Time (1980)	3.426829268292683
+Shadow Conspiracy (1997)	2.8636363636363638
+Bottle Rocket (1996)	3.4545454545454546
+Kingpin (1996)	3.1296296296296298
+Peacemaker, The (1997)	3.2720588235294117
+Starship Troopers (1997)	3.2322274881516586
+It's My Party (1995)	3.2857142857142856
+Once Upon a Time in America (1984)	3.4
+Indian in the Cupboard, The (1995)	2.8205128205128207
+Graduate, The (1967)	4.104602510460251
+Volcano (1997)	2.808219178082192
+Bridge on the River Kwai, The (1957)	4.175757575757576
+Strictly Ballroom (1992)	4.028846153846154
+Wrong Trousers, The (1993)	4.466101694915254
+Eraser (1996)	3.150485436893204
+Stag (1997)	2.111111111111111
+Game, The (1997)	3.593625498007968
+Twelfth Night (1996)	3.413793103448276
+Coneheads (1993)	2.2195121951219514
+Miracle on 34th Street (1994)	3.722772277227723
+Bob Roberts (1992)	3.7411764705882353
+Dazed and Confused (1993)	3.46875
+Scout, The (1994)	2.6666666666666665
+Trees Lounge (1996)	3.24
+Brazil (1985)	3.8173076923076925
+English Patient, The (1996)	3.656964656964657
+Heavenly Creatures (1994)	3.6714285714285713
+While You Were Sleeping (1995)	3.549382716049383
+Akira (1988)	3.38
+Ghost (1990)	3.4647058823529413
+Cook the Thief His Wife & Her Lover, The (1989)	3.024390243902439
+Down by Law (1986)	3.7714285714285714
+Stargate (1994)	3.141732283464567
+Usual Suspects, The (1995)	4.385767790262173
+Absolute Power (1997)	3.37007874015748
+Like Water For Chocolate (Como agua para chocolate) (1992)	3.804054054054054
+Lost Horizon (1937)	3.9411764705882355
+Lawnmower Man 2: Beyond Cyberspace (1996)	1.7142857142857142
+That Thing You Do! (1996)	3.465909090909091
+Return of the Pink Panther, The (1974)	3.5543478260869565
+Foreign Correspondent (1940)	3.8666666666666667
+Fifth Element, The (1997)	3.4771573604060912
+Mulholland Falls (1996)	2.8780487804878048
+Blues Brothers, The (1980)	3.8366533864541834
+Corrina, Corrina (1994)	3.1538461538461537
+Lion King, The (1994)	3.7818181818181817
+French Kiss (1995)	3.3333333333333335
+Aliens (1986)	3.9471830985915495
+Low Down Dirty Shame, A (1994)	2.5
+Free Willy (1993)	2.4545454545454546
+American Werewolf in London, An (1981)	3.5353535353535355
+Crying Game, The (1992)	3.6218487394957983
+Home for the Holidays (1995)	3.1551724137931036
+Full Metal Jacket (1987)	3.6823529411764704
+Little Women (1994)	3.676470588235294
+It Happened One Night (1934)	4.012345679012346
+Dances with Wolves (1990)	3.79296875
+Princess Bride, The (1987)	4.172839506172839
+Crossing Guard, The (1995)	3.0
+To Die For (1995)	3.2758620689655173
+From Dusk Till Dawn (1996)	3.119565217391304
+Apt Pupil (1998)	4.1
+Dial M for Murder (1954)	4.0
+Once Upon a Time... When We Were Colored (1995)	3.2857142857142856
+Hot Shots! Part Deux (1993)	2.764705882352941
+Raising Arizona (1987)	3.875
+Three Colors: Blue (1993)	4.015625
+Crash (1996)	2.546875
+Spy Hard (1996)	2.511627906976744
+Shine (1996)	3.9224806201550386
+Hour of the Pig, The (1993)	3.5714285714285716
+Flubber (1997)	2.7547169811320753
+Multiplicity (1996)	2.8358208955223883
+Ed Wood (1994)	3.601503759398496
+Bram Stoker's Dracula (1992)	3.158333333333333
+George of the Jungle (1997)	2.685185185185185
+Hunchback of Notre Dame, The (1996)	3.377952755905512
+Naked (1993)	3.24
+M*A*S*H (1970)	3.912621359223301
+Smile Like Yours, A (1997)	2.88
+Adventures of Pinocchio, The (1996)	3.051282051282051
+Pinocchio (1940)	3.6732673267326734
+Ice Storm, The (1997)	3.611111111111111
+Indiana Jones and the Last Crusade (1989)	3.930513595166163
+Bed of Roses (1996)	3.2333333333333334
+Devil in a Blue Dress (1995)	3.3859649122807016
+Lost World: Jurassic Park, The (1997)	2.9430379746835444
+Reservoir Dogs (1992)	3.9864864864864864
+Tank Girl (1995)	2.8536585365853657
+Fallen (1998)	3.1463414634146343
+Highlander (1986)	3.5359477124183005
+Trainspotting (1996)	3.884
+GoodFellas (1990)	3.9513274336283186
+Star Wars (1977)	4.3584905660377355
+Powder (1995)	3.2083333333333335
+Godfather: Part II, The (1974)	4.186602870813397
+Evita (1996)	2.9806949806949805
+Psycho (1960)	4.100418410041841
+Tin Men (1987)	3.0784313725490198
+Home Alone (1990)	3.0875912408759123
+Ransom (1996)	3.644194756554307
+Beautiful Girls (1996)	3.391304347826087
+Dave (1993)	3.65
+Monty Python and the Holy Grail (1974)	4.0664556962025316
+Die Hard: With a Vengeance (1995)	3.2847682119205297
+Days of Thunder (1990)	2.7169811320754715
+Thinner (1996)	2.4489795918367347
+Swingers (1996)	3.828025477707006
+Fools Rush In (1997)	3.0
+Army of Darkness (1993)	3.4310344827586206
+Bridges of Madison County, The (1995)	3.1641791044776117
+First Knight (1995)	3.0232558139534884
+Picture Perfect (1997)	2.962962962962963
+Muriel's Wedding (1994)	3.55
+Dead Man (1995)	3.823529411764706
+Priest (1994)	4.0
+Mrs. Brown (Her Majesty, Mrs. Brown) (1997)	3.9479166666666665
+Mary Reilly (1996)	2.8205128205128207
+Austin Powers: International Man of Mystery (1997)	3.246153846153846
+Mallrats (1995)	3.4444444444444446
+Laura (1944)	4.1
+Bedknobs and Broomsticks (1971)	3.0701754385964914
+Killing Zoe (1994)	3.475
+Spitfire Grill, The (1996)	3.804123711340206
+Great White Hype, The (1996)	2.7551020408163267
+Babe (1995)	3.9954337899543377
+Quiz Show (1994)	3.645714285714286
+Kull the Conqueror (1997)	2.63768115942029
+Last Supper, The (1995)	3.4482758620689653
+Evening Star, The (1996)	2.9310344827586206
+Omen, The (1976)	3.388235294117647
+Kundun (1997)	3.6904761904761907
+With Honors (1994)	3.0652173913043477
+Great Expectations (1998)	3.2222222222222223
+Line King: Al Hirschfeld, The (1996)	3.0
+Professional, The (1994)	3.704697986577181
+Michael Collins (1996)	3.4565217391304346
+Grifters, The (1990)	3.4831460674157304
+Shiloh (1997)	2.8333333333333335
+Independence Day (ID4) (1996)	3.438228438228438
+In & Out (1997)	3.3043478260869565
+Hudsucker Proxy, The (1994)	3.5545454545454547
+Tin Cup (1996)	3.160621761658031
+Jane Eyre (1996)	3.4761904761904763
+Braveheart (1995)	4.151515151515151
+My Fellow Americans (1996)	3.1627906976744184
+Red Firecracker, Green Firecracker (1994)	3.4615384615384617
+Orlando (1993)	3.6176470588235294
+Andre (1994)	3.111111111111111
+Beavis and Butt-head Do America (1996)	2.7884615384615383
+Houseguest (1994)	2.8333333333333335
+Island of Dr. Moreau, The (1996)	2.1578947368421053
+Juror, The (1996)	2.817073170731707
+Three Musketeers, The (1993)	3.303370786516854
+Hamlet (1996)	4.011111111111111
+Faithful (1996)	3.3
+Rosewood (1997)	3.6666666666666665
+Mary Shelley's Frankenstein (1994)	3.0677966101694913
+Mr. Magoo (1997)	1.9166666666666667
+Four Weddings and a Funeral (1994)	3.6613545816733066
+Parent Trap, The (1961)	3.095890410958904
+Rising Sun (1993)	2.9069767441860463
+Money Train (1995)	2.511627906976744
+Donnie Brasco (1997)	3.802721088435374
+Bringing Up Baby (1938)	3.838235294117647
+Thieves (Voleurs, Les) (1996)	3.7142857142857144
+Bushwhacked (1995)	1.5714285714285714
+Stand by Me (1986)	3.881057268722467
+Mighty Aphrodite (1995)	3.4184782608695654
+Beauty and the Beast (1991)	3.792079207920792
+Jack (1996)	3.142857142857143
+Pretty Woman (1990)	3.323170731707317
+High Noon (1952)	4.1022727272727275
+Alien 3 (1992)	2.83
+American President, The (1995)	3.6280487804878048
+Amityville: A New Generation (1993)	1.0
+Sophie's Choice (1982)	3.896551724137931
+Purple Noon (1960)	3.142857142857143
+Father of the Bride (1950)	3.5833333333333335
+101 Dalmatians (1996)	2.908256880733945
+Supercop (1992)	3.5384615384615383
+Michael (1996)	3.319327731092437
+Breakdown (1997)	3.4025974025974026
+I.Q. (1994)	3.3209876543209877
+So Dear to My Heart (1949)	3.25
+Enchanted April (1991)	3.9285714285714284
+Terminal Velocity (1994)	2.676470588235294
+Stalingrad (1993)	3.1666666666666665
+Long Kiss Goodnight, The (1996)	3.4702702702702704
+Higher Learning (1995)	3.3333333333333335
+East of Eden (1955)	3.864406779661017
+Chamber, The (1996)	3.0930232558139537
+Top Gun (1986)	3.481818181818182
+Living in Oblivion (1995)	3.740740740740741
+Star Trek: The Motion Picture (1979)	3.034188034188034
+Booty Call (1997)	2.1666666666666665
+My Left Foot (1989)	3.8512396694214877
+Touch (1997)	2.7777777777777777
+Strange Days (1995)	3.264367816091954
+What Happened Was... (1994)	2.625
+Space Jam (1996)	2.774193548387097
+Fried Green Tomatoes (1991)	3.764705882352941
+Fast, Cheap & Out of Control (1997)	3.4375
+Striptease (1996)	2.2388059701492535
+Dumb & Dumber (1994)	3.0
+Dolores Claiborne (1994)	3.3417721518987342
+Perfect World, A (1993)	3.68
+Apollo 13 (1995)	3.931159420289855
+Nell (1994)	3.4814814814814814
+Madness of King George, The (1994)	3.769230769230769
+Star Trek IV: The Voyage Home (1986)	3.4472361809045227
+Rebel Without a Cause (1955)	3.8555555555555556
+Clear and Present Danger (1994)	3.569832402234637
+Prophecy, The (1995)	2.9375
+That Darn Cat! (1997)	2.4634146341463414
+Heathers (1989)	3.690058479532164
+Snow White and the Seven Dwarfs (1937)	3.7093023255813953
+Denise Calls Up (1995)	3.0
+Henry V (1989)	4.137096774193548
+Basquiat (1996)	3.25
+Excess Baggage (1997)	2.5384615384615383
+Roman Holiday (1953)	4.102941176470588
+Dracula: Dead and Loving It (1995)	2.28
+Marvin's Room (1996)	3.58974358974359
+Arsenic and Old Lace (1944)	4.078260869565217
+Flower of My Secret, The (Flor de mi secreto, La) (1995)	3.1666666666666665
+City Hall (1996)	3.1392405063291138
+Full Monty, The (1997)	3.926984126984127
+Clockwork Orange, A (1971)	3.909502262443439
+Amityville II: The Possession (1982)	1.6428571428571428
+Menace II Society (1993)	3.46
+Blown Away (1994)	2.7586206896551726
+Chinatown (1974)	4.136054421768708
+Lost Highway (1997)	3.136
+Shadowlands (1993)	3.9358974358974357
+True Romance (1993)	3.6153846153846154
+Smoke (1995)	3.6216216216216215
+Bound (1996)	3.8217054263565893
+Dead Man Walking (1995)	3.8963210702341136
+Sleeper (1973)	3.6341463414634148
+Under Siege (1992)	3.2903225806451615
+Wild Bunch, The (1969)	4.023255813953488
+Unforgiven (1992)	3.868131868131868
+Quest, The (1996)	2.5185185185185186
+Raise the Red Lantern (1991)	4.155172413793103
+Secret of Roan Inish, The (1994)	3.859154929577465
+Cable Guy, The (1996)	2.339622641509434
+Rainmaker, The (1997)	3.6
+Secrets & Lies (1996)	4.265432098765432
+Carrie (1976)	3.5041322314049586
+Very Brady Sequel, A (1996)	2.3978494623655915
+SubUrbia (1997)	3.6666666666666665
+Substitute, The (1996)	2.693877551020408
+Koyaanisqatsi (1983)	3.490566037735849
+William Shakespeare's Romeo and Juliet (1996)	3.5943396226415096
+Thousand Acres, A (1997)	3.4054054054054053
+Romeo Is Bleeding (1993)	3.0
+Operation Dumbo Drop (1995)	2.5161290322580645
+Shall We Dance? (1996)	4.260869565217392
+Escape from L.A. (1996)	2.4615384615384617
+Misérables, Les (1995)	3.619047619047619
+Down Periscope (1996)	2.702970297029703
+Dirty Dancing (1987)	3.1020408163265305
+Natural Born Killers (1994)	2.953125
+Mrs. Doubtfire (1993)	3.4114583333333335
+Nightmare Before Christmas, The (1993)	3.5874125874125875
+Matilda (1996)	3.210526315789474
+Dragonheart (1996)	3.0822784810126582
+Nick of Time (1995)	3.0454545454545454
+Shall We Dance? (1937)	3.7058823529411766
+Welcome to the Dollhouse (1995)	3.7232142857142856
+Thin Blue Line, The (1988)	3.7714285714285714
+Maximum Risk (1996)	2.8
+Adventures of Robin Hood, The (1938)	3.791044776119403
+Lawrence of Arabia (1962)	4.23121387283237
+Striking Distance (1993)	2.5833333333333335
+On Golden Pond (1981)	3.556603773584906
+Third Man, The (1949)	4.333333333333333
+Showgirls (1995)	1.9565217391304348
+Net, The (1995)	3.0083333333333333
+Cinderella (1950)	3.5813953488372094
+Amityville: Dollhouse (1996)	1.0
+Breakfast at Tiffany's (1961)	3.7263157894736842
+Searching for Bobby Fischer (1993)	3.9057971014492754
+Exit to Eden (1994)	2.75
+Mask, The (1994)	3.193798449612403
+Being There (1979)	3.9051724137931036
+Escape to Witch Mountain (1975)	2.966666666666667
+Phenomenon (1996)	3.557377049180328
+Blink (1994)	3.0
+Wedding Singer, The (1998)	3.486111111111111
+Sgt. Bilko (1996)	2.5675675675675675
+Maverick (1994)	3.46875
+Sneakers (1992)	3.513333333333333
+Believers, The (1987)	2.25
+Malice (1993)	3.1739130434782608
+Major Payne (1994)	2.473684210526316
+Cool Hand Luke (1967)	3.9939024390243905
+Microcosmos: Le peuple de l'herbe (1996)	3.75
+Gridlock'd (1997)	3.210526315789474
+Eye for an Eye (1996)	3.03125
+Extreme Measures (1996)	3.171875
+Moll Flanders (1996)	3.5
+Room with a View, A (1986)	3.985074626865672
+Everyone Says I Love You (1996)	3.2738095238095237
+Some Folks Call It a Sling Blade (1993)	4.2926829268292686
+She's So Lovely (1997)	2.7358490566037736
+Apocalypse Now (1979)	4.04524886877828
+Homeward Bound II: Lost in San Francisco (1996)	2.78125
+Star Trek: Generations (1994)	3.336206896551724
+Three Colors: Red (1994)	4.0602409638554215
+Oliver & Company (1988)	2.772727272727273
+Son in Law (1993)	2.4871794871794872
+Ghost and the Darkness, The (1996)	3.203125
+Rocket Man (1997)	2.4081632653061225
+Bastard Out of Carolina (1996)	2.875
+Sirens (1994)	2.983050847457627
+Great Dictator, The (1940)	4.021739130434782
+Kiss Me, Guido (1997)	3.161290322580645
+Night of the Living Dead (1968)	3.421875
+Charade (1963)	3.925
+Hoodlum (1997)	2.9315068493150687
+Bullets Over Broadway (1994)	3.7209302325581395
+Sex, Lies, and Videotape (1989)	3.4752475247524752
+Georgia (1995)	2.9
+Bad Boys (1995)	3.1052631578947367
+Benny & Joon (1993)	3.4607843137254903
+Ref, The (1994)	3.0344827586206895
+Local Hero (1983)	3.9682539682539684
+Little Princess, A (1995)	3.658536585365854
+I Know What You Did Last Summer (1997)	3.06
+Breaking the Waves (1996)	3.72972972972973
+Last Dance (1996)	3.111111111111111
+Looking for Richard (1996)	3.727272727272727
+D3: The Mighty Ducks (1996)	2.5789473684210527
+Manhattan (1979)	3.769230769230769
+Emma (1996)	3.7175141242937855
+American in Paris, An (1951)	3.7
+Body Snatchers (1993)	2.971014492753623
+Blue Angel, The (Blaue Engel, Der) (1930)	3.7777777777777777
+Wolf (1994)	2.701492537313433
+My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993)	2.0
+Widows' Peak (1994)	3.5789473684210527
+Addams Family Values (1993)	2.8160919540229883
+Edge, The (1997)	3.5398230088495577
+Sphere (1998)	2.926829268292683
+How to Make an American Quilt (1995)	3.3380281690140845
+Sunset Blvd. (1950)	4.2
+Wallace & Gromit: The Best of Aardman Animation (1996)	4.447761194029851
+Rumble in the Bronx (1995)	3.4482758620689653
+Happy Gilmore (1996)	3.389261744966443
+Disclosure (1994)	3.0
+Unstrung Heroes (1995)	3.3181818181818183
+Magnificent Seven, The (1954)	3.9421487603305785
+Jeffrey (1995)	3.5294117647058822
+How to Be a Player (1997)	2.761904761904762
+Drop Zone (1994)	2.5483870967741935
+Butch Cassidy and the Sundance Kid (1969)	3.949074074074074
+Sling Blade (1996)	4.198529411764706
+Somebody to Love (1994)	1.0
+Gay Divorcee, The (1934)	3.8666666666666667
+Captives (1994)	2.3333333333333335
+Steel (1997)	2.1578947368421053
+Star Trek V: The Final Frontier (1989)	2.3968253968253967
+Glory (1989)	4.076023391812866
+As Good As It Gets (1997)	4.196428571428571
+Harriet the Spy (1996)	2.7
+Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)	3.375
+Forget Paris (1995)	3.193548387096774
+Children of the Corn: The Gathering (1996)	1.3157894736842106
+Day the Earth Stood Still, The (1951)	3.9381443298969074
+Hearts and Minds (1996)	3.8
+Palookaville (1996)	2.923076923076923
+Manon of the Spring (Manon des sources) (1986)	4.120689655172414
+Phat Beach (1996)	1.6
+Die xue shuang xiong (Killer, The) (1989)	3.967741935483871
+Half Baked (1998)	2.5
+Love! Valour! Compassion! (1997)	3.6153846153846154
+Crucible, The (1996)	3.3376623376623376
+Private Parts (1997)	3.53
+Mixed Nuts (1994)	2.533333333333333
+Casino (1995)	3.6483516483516483
+Time to Kill, A (1996)	3.685344827586207
+Pillow Book, The (1995)	3.6923076923076925
+Harold and Maude (1971)	3.8181818181818183
+Crows and Sparrows (1949)	1.5
+Sudden Death (1995)	2.723404255319149
+Air Force One (1997)	3.6310904872389793
+Dingo (1992)	2.4
+Some Kind of Wonderful (1987)	3.6610169491525424
+Cat People (1982)	2.8958333333333335
+Nutty Professor, The (1996)	2.914110429447853
+Gandhi (1982)	4.02051282051282
+Of Human Bondage (1934)	3.2
+Poetic Justice (1993)	2.7777777777777777
+Manchurian Candidate, The (1962)	4.259541984732825
+When We Were Kings (1996)	4.045454545454546
+Horseman on the Roof, The (Hussard sur le toit, Le) (1995)	4.111111111111111
+Transformers: The Movie, The (1986)	2.84375
+Death and the Maiden (1994)	3.4285714285714284
+Cold Comfort Farm (1995)	3.824
+Postman, The (1997)	3.2241379310344827
+Boys on the Side (1995)	3.1470588235294117
+Jungle2Jungle (1997)	2.4393939393939394
+Piano, The (1993)	3.6011904761904763
+Don Juan DeMarco (1995)	3.5526315789473686
+FairyTale: A True Story (1997)	2.966666666666667
+Waiting for Guffman (1996)	4.127659574468085
+Paths of Glory (1957)	4.212121212121212
+Big Bully (1996)	1.8571428571428572
+If Lucy Fell (1996)	2.7586206896551726
+2 Days in the Valley (1996)	3.225806451612903
+Six Degrees of Separation (1993)	3.77027027027027
+Serial Mom (1994)	2.814814814814815
+Total Eclipse (1995)	2.75
+Ma vie en rose (My Life in Pink) (1997)	3.45
+Midnight in the Garden of Good and Evil (1997)	3.1625
+She's the One (1996)	3.0136986301369864
+Robin Hood: Prince of Thieves (1991)	3.2266666666666666
+Another Stakeout (1993)	2.5
+Species (1995)	2.8666666666666667
+Selena (1997)	3.625
+Cat on a Hot Tin Roof (1958)	3.9516129032258065
+Inkwell, The (1994)	3.3333333333333335
+Pallbearer, The (1996)	2.3181818181818183
+Cyrano de Bergerac (1990)	3.8181818181818183
+Deceiver (1997)	2.8275862068965516
+Bride of Frankenstein (1935)	3.608695652173913
+Much Ado About Nothing (1993)	4.0625
+Some Like It Hot (1959)	3.984375
+Leaving Las Vegas (1995)	3.697986577181208
+Thin Line Between Love and Hate, A (1996)	2.4166666666666665
+Ran (1985)	4.1
+Demolition Man (1993)	3.152173913043478
+8 1/2 (1963)	3.8157894736842106
+Life Less Ordinary, A (1997)	3.0754716981132075
+Original Gangstas (1996)	2.142857142857143
+Diva (1981)	3.727272727272727
+What's Love Got to Do with It (1993)	3.488888888888889
+Phantom, The (1996)	2.575
+Paper, The (1994)	3.225
+Batman & Robin (1997)	2.4516129032258065
+Fierce Creatures (1997)	3.1145833333333335
+Murder, My Sweet (1944)	3.5555555555555554
+Pocahontas (1995)	2.5294117647058822
+Kalifornia (1993)	3.2203389830508473
+Poison Ivy II (1995)	2.1538461538461537
+In the Bleak Midwinter (1995)	3.6875
+House of Yes, The (1997)	3.0
+Beyond Rangoon (1995)	3.0555555555555554
+Mouse Hunt (1997)	2.477272727272727
+Mrs. Winterbourne (1996)	3.0454545454545454
+Ace Ventura: When Nature Calls (1995)	2.675675675675676
+Walk in the Clouds, A (1995)	3.2857142857142856
+Titanic (1997)	4.2457142857142856
+Friday (1995)	3.4615384615384617
+Haunted World of Edward D. Wood Jr., The (1995)	3.7333333333333334
+Chungking Express (1994)	3.5714285714285716
+Thin Man, The (1934)	4.15
+Mad Love (1995)	2.1538461538461537
+Patton (1970)	3.9926470588235294
+Aristocats, The (1970)	3.1296296296296298
+For Love or Money (1993)	2.8333333333333335
+Mute Witness (1994)	2.9411764705882355
+His Girl Friday (1940)	4.0
+Raging Bull (1980)	4.120689655172414
+McHale's Navy (1997)	2.1884057971014492
+Kids (1995)	3.061224489795918
+Farewell My Concubine (1993)	3.9782608695652173
+Clerks (1994)	3.804054054054054
+Short Cuts (1993)	3.7761194029850746
+Career Girls (1997)	3.2564102564102564
+Kissed (1996)	3.0
+Hackers (1995)	2.606060606060606
+Young Poisoner's Handbook, The (1995)	3.341463414634146
+Platoon (1986)	3.6929133858267718
+Kiss of Death (1995)	2.85
+Relic, The (1997)	2.88
+Program, The (1993)	2.838709677419355
+Oscar & Lucinda (1997)	3.1904761904761907
+Addicted to Love (1997)	3.1666666666666665
+Tombstone (1993)	3.6666666666666665
+Carrington (1995)	3.230769230769231
+Murder in the First (1995)	3.6
+Threesome (1994)	2.838709677419355
+Big Sleep, The (1946)	4.027397260273973
+Boogie Nights (1997)	3.5873015873015874
+Grease 2 (1982)	2.0
+Man Who Would Be King, The (1975)	4.025
+Killing Fields, The (1984)	4.132231404958677
+Red Corner (1997)	3.3859649122807016
+Mr. Jones (1993)	2.5
+Johnny Mnemonic (1995)	2.6341463414634148
+Die Hard 2 (1990)	3.355421686746988
+Second Jungle Book: Mowgli & Baloo, The (1997)	2.0
+Ruling Class, The (1972)	3.875
+Horse Whisperer, The (1998)	2.7142857142857144
+To Gillian on Her 37th Birthday (1996)	3.0681818181818183
+Meet Me in St. Louis (1944)	3.3548387096774195
+City Slickers II: The Legend of Curly's Gold (1994)	2.5454545454545454
+Before and After (1996)	2.8461538461538463
+Band Wagon, The (1953)	3.6666666666666665
+My Life as a Dog (Mitt liv som hund) (1985)	3.978494623655914
+Crow: City of Angels, The (1996)	1.9487179487179487
+Last Man Standing (1996)	2.660377358490566
+Smilla's Sense of Snow (1997)	3.1666666666666665
+Screamers (1995)	2.652173913043478
+Until the End of the World (Bis ans Ende der Welt) (1991)	2.8260869565217392
+Under Siege 2: Dark Territory (1995)	2.4583333333333335
+High School High (1996)	2.6206896551724137
+Doom Generation, The (1995)	2.7142857142857144
+All Dogs Go to Heaven 2 (1996)	1.8666666666666667
+Amityville Horror, The (1979)	2.5660377358490565
+So I Married an Axe Murderer (1993)	3.0526315789473686
+Double vie de Véronique, La (Double Life of Veronique, The) (1991)	3.6818181818181817
+Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)	3.9166666666666665
+James and the Giant Peach (1996)	3.126984126984127
+Manny & Lo (1996)	3.1538461538461537
+Client, The (1994)	3.381443298969072
+Great Race, The (1965)	3.2903225806451615
+Crooklyn (1994)	3.5
+Man of the Year (1995)	3.111111111111111
+Amos & Andrew (1993)	2.6842105263157894
+Convent, The (Convento, O) (1995)	2.5
+Mother Night (1996)	3.1818181818181817
+Foxfire (1996)	2.933333333333333
+Meet Wally Sparks (1997)	2.142857142857143
+Cops and Robbersons (1994)	2.3076923076923075
+Free Willy 3: The Rescue (1997)	1.7407407407407407
+Better Off Dead... (1985)	3.569620253164557
+39 Steps, The (1935)	4.0508474576271185
+Heavy Metal (1981)	3.26027397260274
+Basketball Diaries, The (1995)	3.425
+Cemetery Man (Dellamorte Dellamore) (1994)	2.869565217391304
+Robin Hood: Men in Tights (1993)	2.5892857142857144
+Rich Man's Wife, The (1996)	2.4
+In the Line of Fire (1993)	3.7928994082840237
+Mediterraneo (1991)	3.676470588235294
+Mark of Zorro, The (1940)	3.6153846153846154
+unknown	3.4444444444444446
+Wild Bill (1995)	2.5
+Braindead (1992)	3.857142857142857
+Wings of the Dove, The (1997)	3.68
+Shallow Grave (1994)	3.8181818181818183
+Fear (1996)	3.159090909090909
+Incognito (1997)	3.5
+The Innocent (1994)	3.0
+House of the Spirits, The (1993)	3.0416666666666665
+Stuart Saves His Family (1995)	2.125
+Event Horizon (1997)	2.574803149606299
+Anna Karenina (1997)	3.090909090909091
+Winnie the Pooh and the Blustery Day (1968)	3.8
+Private Benjamin (1980)	2.955223880597015
+Seventh Seal, The (Sjunde inseglet, Det) (1957)	3.5416666666666665
+Paradise Lost: The Child Murders at Robin Hood Hills (1996)	4.05
+Santa Clause, The (1994)	3.097560975609756
+Funny Face (1957)	3.6666666666666665
+Rosencrantz and Guildenstern Are Dead (1990)	3.888888888888889
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)	2.7714285714285714
+Washington Square (1997)	3.2941176470588234
+Zeus and Roxanne (1997)	2.1666666666666665
+Jade (1995)	2.2941176470588234
+Perez Family, The (1995)	2.642857142857143
+Giant (1956)	3.7450980392156863
+Shadow, The (1994)	2.888888888888889
+Judgment Night (1993)	2.68
+Love Bug, The (1969)	2.78
+Congo (1995)	2.4523809523809526
+Boomerang (1992)	2.8125
+Ace Ventura: Pet Detective (1994)	3.0485436893203883
+Three Caballeros, The (1945)	3.272727272727273
+Stupids, The (1996)	2.0
+Timecop (1994)	3.096774193548387
+Telling Lies in America (1997)	3.230769230769231
+Replacement Killers, The (1998)	3.3076923076923075
+Inventing the Abbotts (1997)	3.130434782608696
+Kid in King Arthur's Court, A (1995)	2.727272727272727
+Deconstructing Harry (1997)	3.4
+Once Were Warriors (1994)	4.064516129032258
+Vanya on 42nd Street (1994)	3.5925925925925926
+Every Other Weekend (1990)	1.0
+First Kid (1996)	2.925
+Man of the House (1995)	2.111111111111111
+Ponette (1996)	3.3
+Black Sheep (1996)	2.6363636363636362
+Best of the Best 3: No Turning Back (1995)	1.5
+Soul Food (1997)	3.169491525423729
+Victor/Victoria (1982)	3.3376623376623376
+Something to Talk About (1995)	2.769230769230769
+Jack and Sarah (1995)	2.142857142857143
+Things to Do in Denver when You're Dead (1995)	3.1549295774647885
+Cinema Paradiso (1988)	4.1735537190082646
+Losing Isaiah (1995)	3.0
+Tales from the Crypt Presents: Bordello of Blood (1996)	2.6363636363636362
+Picnic (1955)	3.611111111111111
+G.I. Jane (1997)	3.36
+Frighteners, The (1996)	3.234782608695652
+Sleepers (1996)	3.514792899408284
+In the Company of Men (1997)	3.712121212121212
+Crimson Tide (1995)	3.6298701298701297
+I Love Trouble (1994)	2.5
+My Favorite Year (1982)	3.532258064516129
+To Catch a Thief (1955)	4.02
+Loch Ness (1995)	2.5
+Jaws 3-D (1983)	1.9375
+Jude (1996)	3.0
+Homage (1995)	1.0
+Daylight (1996)	2.7719298245614037
+Lone Star (1996)	4.053475935828877
+Wyatt Earp (1994)	3.1
+Shaggy Dog, The (1959)	3.0
+Freeway (1996)	3.357142857142857
+Alice in Wonderland (1951)	3.6666666666666665
+Hellraiser: Bloodline (1996)	2.0
+Ready to Wear (Pret-A-Porter) (1994)	1.8333333333333333
+Loaded (1994)	2.4
+Scream 2 (1997)	3.2169811320754715
+Walkabout (1971)	3.8461538461538463
+Wes Craven's New Nightmare (1994)	2.8
+All About Eve (1950)	4.045454545454546
+Candyman: Farewell to the Flesh (1995)	2.4285714285714284
+Candyman (1992)	2.723076923076923
+Secret Garden, The (1993)	3.5443037974683542
+Deer Hunter, The (1978)	3.8333333333333335
+Junior (1994)	3.022222222222222
+Jackal, The (1997)	3.1494252873563218
+Desperate Measures (1998)	3.3194444444444446
+April Fool's Day (1986)	2.6666666666666665
+Beverly Hills Ninja (1997)	2.3125
+Baby-Sitters Club, The (1995)	2.5
+Basic Instinct (1992)	3.227722772277228
+Notorious (1946)	4.115384615384615
+Bread and Chocolate (Pane e cioccolata) (1973)	3.1666666666666665
+No Escape (1994)	2.4
+Beautician and the Beast, The (1997)	2.313953488372093
+Escape from New York (1981)	3.241758241758242
+Barbarella (1968)	2.5714285714285716
+Daytrippers, The (1996)	3.6666666666666665
+Swept from the Sea (1997)	2.4285714285714284
+Eddie (1996)	2.7
+Around the World in 80 Days (1956)	3.6610169491525424
+Live Nude Girls (1995)	3.0869565217391304
+Window to Paris (1994)	4.0
+Belle de jour (1967)	3.945945945945946
+3 Ninjas: High Noon At Mega Mountain (1998)	1.0
+To Live (Huozhe) (1994)	3.7857142857142856
+Glimmer Man, The (1996)	2.75
+In the Line of Duty 2 (1987)	2.75
+Barcelona (1994)	3.018867924528302
+Gaslight (1944)	3.8857142857142857
+Big Blue, The (Grand bleu, Le) (1988)	3.235294117647059
+Lightning Jack (1994)	3.0
+Theodore Rex (1995)	1.4
+Metisse (Café au Lait) (1993)	2.3333333333333335
+Swiss Family Robinson (1960)	3.358974358974359
+Apartment, The (1960)	3.9365079365079363
+Kama Sutra: A Tale of Love (1996)	3.3181818181818183
+Primary Colors (1998)	3.923076923076923
+Bananas (1971)	3.7017543859649122
+Celtic Pride (1996)	2.2
+187 (1997)	3.024390243902439
+Hard Target (1993)	2.7
+Nadja (1994)	2.25
+Fire Down Below (1997)	2.9318181818181817
+Bird of Prey (1996)	1.0
+Immortal Beloved (1994)	3.4603174603174605
+Alaska (1996)	2.6923076923076925
+NeverEnding Story III, The (1994)	2.1666666666666665
+Feeling Minnesota (1996)	2.625
+Hercules (1997)	3.515151515151515
+Mr. Smith Goes to Washington (1939)	4.123809523809523
+Big Green, The (1995)	2.5
+Quick and the Dead, The (1995)	3.2083333333333335
+Touch of Evil (1958)	3.911764705882353
+Faster Pussycat! Kill! Kill! (1965)	3.0
+Modern Affair, A (1995)	1.0
+Eat Drink Man Woman (1994)	4.05
+Whole Wide World, The (1996)	4.0
+Money Talks (1997)	2.8152173913043477
+Weekend at Bernie's (1989)	2.6166666666666667
+Cowboy Way, The (1994)	2.210526315789474
+Up in Smoke (1978)	3.25531914893617
+Gigi (1958)	3.658536585365854
+Eve's Bayou (1997)	3.609375
+Penny Serenade (1941)	3.0
+City of Angels (1998)	3.0
+Billy Madison (1995)	3.081081081081081
+Balto (1995)	3.0
+Playing God (1997)	2.627906976744186
+Surviving Picasso (1996)	3.1052631578947367
+Fresh (1994)	4.1
+Walking and Talking (1996)	3.625
+Gattaca (1997)	3.5955882352941178
+Now and Then (1995)	3.4583333333333335
+Stars Fell on Henrietta, The (1995)	2.3333333333333335
+Mighty Morphin Power Rangers: The Movie (1995)	2.272727272727273
+Davy Crockett, King of the Wild Frontier (1955)	2.909090909090909
+Rebecca (1940)	3.9696969696969697
+Beverly Hillbillies, The (1993)	2.25
+Castle Freak (1995)	1.25
+Miami Rhapsody (1995)	2.6
+Unforgettable (1996)	3.323529411764706
+Craft, The (1996)	3.1153846153846154
+Radioland Murders (1994)	3.3333333333333335
+Rob Roy (1995)	3.5652173913043477
+Clean Slate (1994)	2.8
+Hideaway (1995)	2.4444444444444446
+Critical Care (1997)	3.090909090909091
+Stealing Beauty (1996)	3.375
+Last Action Hero (1993)	2.7457627118644066
+Bronx Tale, A (1993)	3.7916666666666665
+Thirty-Two Short Films About Glenn Gould (1993)	3.9444444444444446
+Manhattan Murder Mystery (1993)	3.6296296296296298
+Treasure of the Sierra Madre, The (1948)	4.1
+Drop Dead Fred (1991)	2.75
+Robert A. Heinlein's The Puppet Masters (1994)	3.0
+Home Alone 3 (1997)	1.894736842105263
+Boxing Helena (1993)	2.2
+Mrs. Parker and the Vicious Circle (1994)	3.272727272727273
+Delta of Venus (1994)	3.0
+Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)	3.772727272727273
+Surviving the Game (1994)	2.4545454545454546
+Safe (1995)	4.0
+Amateur (1994)	3.1666666666666665
+Anne Frank Remembered (1995)	3.857142857142857
+Specialist, The (1994)	2.25
+Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)	2.6
+Assignment, The (1997)	3.5
+Fatal Instinct (1993)	2.6315789473684212
+Year of the Horse (1997)	3.2857142857142856
+Dark City (1998)	3.5
+Unzipped (1995)	3.5454545454545454
+Air Bud (1997)	2.558139534883721
+Cobb (1994)	2.8
+Sliver (1993)	2.4054054054054053
+Body Snatcher, The (1945)	3.5
+Kids in the Hall: Brain Candy (1996)	3.076923076923077
+Fog, The (1980)	2.739130434782609
+Doors, The (1991)	2.9782608695652173
+Carlito's Way (1993)	3.4074074074074074
+Female Perversions (1996)	2.625
+Barb Wire (1996)	1.9333333333333333
+Of Love and Shadows (1994)	3.1666666666666665
+Anaconda (1997)	2.289473684210526
+Spanking the Monkey (1994)	3.074074074074074
+Star Maps (1997)	3.0526315789473686
+Philadelphia (1993)	3.854014598540146
+Spice World (1997)	2.1153846153846154
+Bulletproof (1996)	3.204081632653061
+Nine Months (1995)	2.9310344827586206
+Forbidden Planet (1956)	3.8358208955223883
+Air Up There, The (1994)	2.8125
+Ridicule (1996)	3.7045454545454546
+Spawn (1997)	2.6153846153846154
+Affair to Remember, An (1957)	4.1923076923076925
+Lover's Knot (1996)	2.0
+Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)	3.5555555555555554
+Keys to Tulsa (1997)	2.24
+Christmas Carol, A (1938)	4.057971014492754
+Two Much (1996)	2.4285714285714284
+I Like It Like That (1994)	2.3333333333333335
+Portrait of a Lady, The (1996)	2.68
+Street Fighter (1994)	2.75
+Power 98 (1995)	1.0
+White Squall (1996)	3.4
+Solo (1996)	1.8333333333333333
+Arrival, The (1996)	3.036144578313253
+Black Beauty (1994)	3.4444444444444446
+Prefontaine (1997)	5.0
+Heaven's Prisoners (1996)	2.5185185185185186
+Blob, The (1958)	2.717391304347826
+Jerky Boys, The (1994)	2.6666666666666665
+Blues Brothers 2000 (1998)	2.8214285714285716
+Scarlet Letter, The (1995)	2.4
+Highlander III: The Sorcerer (1994)	2.125
+Van, The (1996)	2.6666666666666665
+My Man Godfrey (1936)	4.037037037037037
+M (1931)	4.0
+Made in America (1993)	2.5185185185185186
+Fox and the Hound, The (1981)	3.1475409836065573
+Love and Death on Long Island (1997)	2.5
+Women, The (1939)	3.6666666666666665
+Feast of July (1995)	2.4
+Ballad of Narayama, The (Narayama Bushiko) (1958)	2.75
+Reality Bites (1994)	2.961038961038961
+Switchblade Sisters (1975)	3.230769230769231
+Night on Earth (1991)	3.8333333333333335
+Flesh and Bone (1993)	2.8333333333333335
+Firestorm (1998)	2.8333333333333335
+Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)	3.576923076923077
+Month by the Lake, A (1995)	3.3333333333333335
+Rent-a-Kid (1995)	3.0
+Super Mario Bros. (1993)	2.076923076923077
+Persuasion (1995)	4.045454545454546
+Pyromaniac's Love Story, A (1995)	2.4285714285714284
+War Room, The (1993)	3.3333333333333335
+Go Fish (1994)	3.2
+Associate, The (1996)	3.2439024390243905
+Dead Presidents (1995)	2.7222222222222223
+Antonia's Line (1995)	3.9565217391304346
+Virtuosity (1995)	2.736842105263158
+Ruby in Paradise (1993)	3.130434782608696
+Top Hat (1935)	4.0476190476190474
+Stephen King's The Langoliers (1995)	2.413793103448276
+Hate (Haine, La) (1995)	3.5
+Simple Wish, A (1997)	1.6666666666666667
+Nixon (1995)	3.1222222222222222
+Vegas Vacation (1997)	2.4
+Four Days in September (1997)	3.75
+Spellbound (1945)	3.933333333333333
+Relative Fear (1994)	1.6666666666666667
+Babysitter, The (1995)	2.3333333333333335
+Out to Sea (1997)	2.6842105263157894
+Farinelli: il castrato (1994)	3.1176470588235294
+Brassed Off (1996)	3.9375
+American Strays (1996)	2.0
+Lord of Illusions (1995)	2.4166666666666665
+Farmer & Chase (1995)	4.0
+Little Odessa (1994)	2.6
+Angus (1995)	2.642857142857143
+Ghost and Mrs. Muir, The (1947)	3.6511627906976742
+Turbulence (1997)	2.5652173913043477
+Young Guns II (1990)	2.772727272727273
+Talking About Sex (1994)	1.8
+Bitter Moon (1992)	3.3
+Apple Dumpling Gang, The (1975)	2.84
+Stranger, The (1994)	3.0
+Once Upon a Time in the West (1969)	3.8684210526315788
+Big Lebowski, The (1998)	3.8333333333333335
+White Man's Burden (1995)	2.0
+Flintstones, The (1994)	2.064516129032258
+Cutthroat Island (1995)	2.4444444444444446
+Set It Off (1996)	3.4210526315789473
+Wishmaster (1997)	2.4444444444444446
+Preacher's Wife, The (1996)	2.926470588235294
+Passion Fish (1992)	3.1785714285714284
+In Love and War (1996)	3.4285714285714284
+Paris Is Burning (1990)	3.814814814814815
+Paris, Texas (1984)	3.5434782608695654
+Richie Rich (1994)	2.4285714285714284
+Airheads (1994)	2.34375
+C'est arrivé près de chez vous (1992)	3.0
+Milk Money (1994)	2.72972972972973
+Judge Dredd (1995)	2.8974358974358974
+Othello (1995)	3.611111111111111
+Old Man and the Sea, The (1958)	3.34375
+Man Who Knew Too Little, The (1997)	2.923076923076923
+Truman Show, The (1998)	2.909090909090909
+Gold Diggers: The Secret of Bear Mountain (1995)	3.1
+Girl 6 (1996)	2.76
+Sweet Hereafter, The (1997)	3.772727272727273
+Prophecy II, The (1998)	2.7
+Geronimo: An American Legend (1993)	3.111111111111111
+I Shot Andy Warhol (1996)	3.3783783783783785
+Newton Boys, The (1998)	3.0
+Perfect Candidate, A (1996)	4.0
+Night Falls on Manhattan (1997)	3.375
+Tin Drum, The (Blechtrommel, Die) (1979)	3.7
+Aladdin and the King of Thieves (1996)	2.8461538461538463
+Nil By Mouth (1997)	2.0
+Santa with Muscles (1996)	5.0
+Boys, Les (1997)	3.3333333333333335
+Pest, The (1997)	1.875
+Flirt (1995)	3.6
+M. Butterfly (1993)	3.2222222222222223
+Maya Lin: A Strong Clear Vision (1994)	4.5
+Two if by Sea (1996)	2.6
+Pompatus of Love, The (1996)	3.0
+My Own Private Idaho (1991)	3.6333333333333333
+Head Above Water (1996)	3.0
+Squeeze (1996)	1.6666666666666667
+Even Cowgirls Get the Blues (1993)	2.0
+Boys of St. Vincent, The (1993)	3.3846153846153846
+Ghosts of Mississippi (1996)	3.4827586206896552
+Awfully Big Adventure, An (1995)	2.375
+Heidi Fleiss: Hollywood Madam (1995)	2.6923076923076925
+Machine, The (1994)	1.5
+Little Big League (1994)	2.875
+Party Girl (1995)	2.875
+Great Day in Harlem, A (1994)	5.0
+Candidate, The (1972)	3.641025641025641
+Tie That Binds, The (1995)	2.4285714285714284
+Catwalk (1995)	1.3333333333333333
+Rhyme & Reason (1997)	2.2
+Burnt By the Sun (1994)	3.7083333333333335
+Farewell to Arms, A (1932)	3.8333333333333335
+Fear, The (1995)	3.0
+Life with Mikey (1993)	2.2857142857142856
+Speed 2: Cruise Control (1997)	2.1315789473684212
+Last Time I Saw Paris, The (1954)	3.6666666666666665
+That Old Feeling (1997)	3.3636363636363638
+Madame Butterfly (1995)	3.5714285714285716
+Maybe, Maybe Not (Bewegte Mann, Der) (1994)	3.5
+Howling, The (1981)	3.026315789473684
+Fear of a Black Hat (1993)	3.2
+Hard Rain (1998)	2.903225806451613
+Anastasia (1997)	3.4242424242424243
+For Whom the Bell Tolls (1943)	4.0
+Browning Version, The (1994)	3.0
+Tetsuo II: Body Hammer (1992)	2.6666666666666665
+Little Buddha (1993)	3.3181818181818183
+Fathers' Day (1997)	2.5806451612903225
+Amityville 1992: It's About Time (1992)	1.0
+Sunset Park (1996)	2.5
+Funeral, The (1996)	2.4285714285714284
+Love and a .45 (1994)	3.125
+Inspector General, The (1949)	3.7222222222222223
+I'm Not Rappaport (1996)	3.0
+When a Man Loves a Woman (1994)	3.4871794871794872
+Nobody's Fool (1994)	3.608695652173913
+Deep Rising (1998)	2.4285714285714284
+Metro (1997)	2.9166666666666665
+Fair Game (1995)	2.1818181818181817
+Mrs. Dalloway (1997)	3.6
+I'll Do Anything (1994)	2.6
+Pie in the Sky (1995)	2.0
+Substance of Fire, The (1996)	3.25
+Swan Princess, The (1994)	2.857142857142857
+Gone Fishin' (1997)	1.8181818181818181
+Flipper (1996)	2.45
+Madonna: Truth or Dare (1991)	2.4705882352941178
+One Night Stand (1997)	3.466666666666667
+Guilty as Sin (1993)	2.1666666666666665
+Trial and Error (1997)	2.5217391304347827
+Bad Taste (1987)	3.375
+Citizen Ruth (1996)	3.6222222222222222
+Halloween: The Curse of Michael Myers (1995)	2.2
+Albino Alligator (1996)	2.5
+Mina Tannenbaum (1994)	3.6666666666666665
+Tango Lesson, The (1997)	3.3846153846153846
+Margaret's Museum (1995)	4.0
+For Richer or Poorer (1997)	2.4285714285714284
+Three Wishes (1995)	3.2222222222222223
+Innocent Sleep, The (1995)	2.0
+Grass Harp, The (1995)	3.2222222222222223
+Blue in the Face (1995)	3.1777777777777776
+I Can't Sleep (J'ai pas sommeil) (1994)	2.6666666666666665
+Vermin (1998)	2.0
+Nosferatu a Venezia (1986)	2.3333333333333335
+Mr. Wrong (1996)	2.3043478260869565
+Exotica (1994)	3.5555555555555554
+Big Squeeze, The (1996)	2.25
+Herbie Rides Again (1974)	2.272727272727273
+Love Affair (1994)	2.8333333333333335
+Sum of Us, The (1994)	3.5454545454545454
+'Til There Was You (1997)	2.3333333333333335
+Bye Bye, Love (1995)	3.1333333333333333
+Beyond Bedlam (1993)	1.0
+Hard Eight (1996)	4.0
+Ayn Rand: A Sense of Life (1997)	3.142857142857143
+Good Morning (1971)	1.0
+Chasers (1994)	2.2
+In the Mouth of Madness (1995)	2.8846153846153846
+Double Team (1997)	2.230769230769231
+Cats Don't Dance (1997)	2.84375
+Carried Away (1996)	3.0
+Little Princess, The (1939)	3.5555555555555554
+Getaway, The (1994)	2.3333333333333335
+Underground (1995)	2.8
+Hugo Pool (1997)	3.2857142857142856
+Heavy (1995)	2.4
+White Balloon, The (1995)	2.8
+Robocop 3 (1993)	1.7272727272727273
+Hear My Song (1991)	3.25
+Reckless (1995)	2.75
+Mortal Kombat (1995)	2.877551020408163
+Caro Diario (Dear Diary) (1994)	2.75
+Faust (1994)	4.2
+Beverly Hills Cop III (1994)	2.392857142857143
+Meet John Doe (1941)	3.92
+Very Natural Thing, A (1974)	1.0
+Indian Summer (1996)	3.25
+Village of the Damned (1995)	2.6818181818181817
+Fearless (1993)	3.24
+Love & Human Remains (1993)	3.1666666666666665
+Drunks (1995)	2.8
+Roseanna's Grave (For Roseanna) (1997)	2.8
+Paris Was a Woman (1995)	3.0
+Faces (1968)	3.0
+Jingle All the Way (1996)	2.111111111111111
+Fille seule, La (A Single Girl) (1995)	4.0
+Little Lord Fauntleroy (1936)	3.1666666666666665
+Bloodsport 2 (1995)	1.7
+Pather Panchali (1955)	4.625
+True Crime (1995)	3.3333333333333335
+Mortal Kombat: Annihilation (1997)	1.9534883720930232
+Cabin Boy (1994)	2.5625
+Blood & Wine (1997)	2.8636363636363638
+Marked for Death (1990)	2.5
+Phantoms (1998)	2.230769230769231
+Body Parts (1991)	1.6153846153846154
+Panther (1995)	2.4
+Star Maker, The (Uomo delle stelle, L') (1995)	3.1666666666666665
+Goofy Movie, A (1995)	2.9
+Audrey Rose (1977)	2.1666666666666665
+Vampire in Brooklyn (1995)	1.8333333333333333
+Road to Wellville, The (1994)	2.2941176470588234
+Fluke (1995)	2.4285714285714284
+Cronos (1992)	3.2
+Kaspar Hauser (1993)	4.25
+Turbo: A Power Rangers Movie (1997)	1.8
+Ill Gotten Gains (1997)	2.3333333333333335
+Other Voices, Other Rooms (1997)	3.0
+Search for One-eye Jimmy, The (1996)	2.6666666666666665
+Princess Caraboo (1994)	3.1333333333333333
+War, The (1994)	3.2666666666666666
+Bad Girls (1994)	1.8333333333333333
+Free Willy 2: The Adventure Home (1995)	2.1818181818181817
+Senseless (1998)	2.4285714285714284
+Lost in Space (1998)	3.1666666666666665
+Stripes (1981)	3.8
+Falling in Love Again (1980)	1.0
+Tom & Viv (1994)	3.3333333333333335
+Gabbeh (1996)	3.3333333333333335
+1-900 (1994)	2.6
+Innocents, The (1961)	4.25
+Colonel Chabert, Le (1994)	3.5
+Jefferson in Paris (1995)	2.0
+Heaven & Earth (1993)	2.5555555555555554
+Walk in the Sun, A (1945)	3.0
+Palmetto (1998)	3.142857142857143
+Boy's Life 2 (1997)	3.3333333333333335
+Cry, the Beloved Country (1995)	3.75
+Tom and Huck (1995)	3.1666666666666665
+Fall (1997)	2.0
+Aiqing wansui (1994)	5.0
+T-Men (1947)	1.0
+Lotto Land (1995)	1.0
+Love Is All There Is (1996)	3.0
+Withnail and I (1987)	3.230769230769231
+Last Time I Committed Suicide, The (1997)	2.2857142857142856
+Pagemaster, The (1994)	2.25
+Johns (1996)	3.0
+Mighty, The (1998)	1.0
+North (1994)	2.7142857142857144
+Dunston Checks In (1996)	1.8571428571428572
+King of the Hill (1993)	3.5
+Dear God (1996)	2.5
+Late Bloomers (1996)	3.4
+Police Story 4: Project S (Chao ji ji hua) (1993)	1.0
+8 Seconds (1994)	3.75
+Wonderful, Horrible Life of Leni Riefenstahl, The (1993)	4.0
+Bad Moon (1996)	2.6666666666666665
+Wild Things (1998)	2.727272727272727
+Kansas City (1996)	2.260869565217391
+Strawberry and Chocolate (Fresa y chocolate) (1993)	3.272727272727273
+Turning, The (1992)	2.5
+For the Moment (1994)	2.6666666666666665
+Color of Night (1994)	2.7333333333333334
+Collectionneuse, La (1967)	2.0
+Stonewall (1995)	4.2
+Anna (1996)	4.5
+Brother Minister: The Assassination of Malcolm X (1994)	3.0
+Traveller (1997)	3.3076923076923075
+Damsel in Distress, A (1937)	4.0
+Love and Other Catastrophes (1996)	2.857142857142857
+Wild America (1997)	2.888888888888889
+An Unforgettable Summer (1994)	2.5
+Jason's Lyric (1994)	3.0
+Two Deaths (1995)	2.25
+Venice/Venice (1992)	1.0
+Safe Passage (1994)	3.0
+Before the Rain (Pred dozhdot) (1994)	3.8
+Tigrero: A Film That Was Never Made (1994)	1.0
+Jimmy Hollywood (1994)	2.875
+Blood Beach (1981)	2.1666666666666665
+Man of No Importance, A (1994)	3.4285714285714284
+Amityville Curse, The (1990)	1.25
+I Don't Want to Talk About It (De eso no se habla) (1993)	4.0
+Shooting Fish (1997)	2.5
+Daens (1992)	1.0
+Welcome To Sarajevo (1997)	3.3636363636363638
+Beat the Devil (1954)	3.7142857142857144
+Carmen Miranda: Bananas Is My Business (1994)	1.5
+Twin Town (1997)	2.1666666666666665
+Far From Home: The Adventures of Yellow Dog (1995)	3.2857142857142856
+Little Rascals, The (1994)	2.7222222222222223
+My Crazy Life (Mi vida loca) (1993)	3.1818181818181817
+Forbidden Christ, The (Cristo proibito, Il) (1950)	2.75
+Outlaw, The (1943)	2.5
+Designated Mourner, The (1997)	1.8571428571428572
+Secret Adventures of Tom Thumb, The (1993)	2.6
+Queen Margot (Reine Margot, La) (1994)	3.5
+Angel and the Badman (1947)	3.0
+Moonlight and Valentino (1995)	2.5714285714285716
+Trust (1990)	3.789473684210526
+Nightwatch (1997)	3.0
+Mr. Wonderful (1993)	3.0
+Caught (1996)	3.25
+All Over Me (1997)	3.0
+Story of Xinghua, The (1993)	3.2
+Bad Company (1995)	2.2222222222222223
+Locusts, The (1997)	2.0
+Race the Sun (1996)	2.8
+Hotel de Love (1996)	3.25
+Frisk (1995)	2.6666666666666665
+Promise, The (Versprechen, Das) (1994)	1.0
+Nothing to Lose (1994)	3.2857142857142856
+Gumby: The Movie (1995)	2.6
+Joy Luck Club, The (1993)	3.6666666666666665
+Cyclo (1995)	3.0
+When Night Is Falling (1995)	3.4
+Sexual Life of the Belgians, The (1994)	1.5
+Paradise Road (1997)	3.2857142857142856
+Killer (Bulletproof Heart) (1994)	2.5
+Bent (1997)	2.6666666666666665
+Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)	3.761904761904762
+Contempt (Mépris, Le) (1963)	3.0
+Killer: A Journal of Murder (1995)	4.0
+Journey of August King, The (1995)	2.0
+New Jersey Drive (1995)	3.0
+Jury Duty (1995)	2.0
+U.S. Marshalls (1998)	3.0
+Kim (1950)	3.2857142857142856
+National Lampoon's Senior Trip (1995)	2.4285714285714284
+Picture Bride (1995)	3.1
+Bloody Child, The (1996)	1.0
+Cement Garden, The (1993)	3.6
+Prisoner of the Mountains (Kavkazsky Plennik) (1996)	3.0
+Steal Big, Steal Little (1995)	2.5714285714285716
+Hurricane Streets (1998)	2.6666666666666665
+Yankee Zulu (1994)	1.0
+Midnight Dancers (Sibak) (1994)	2.8
+Duoluo tianshi (1995)	3.1666666666666665
+Eye of Vichy, The (Oeil de Vichy, L') (1993)	1.0
+Love in the Afternoon (1957)	3.9
+Dangerous Beauty (1998)	3.769230769230769
+Golden Earrings (1947)	4.0
+Destiny Turns on the Radio (1995)	3.0
+Alphaville (1965)	3.3333333333333335
+Twisted (1996)	3.5
+Run of the Country, The (1995)	3.25
+Lashou shentan (1992)	1.0
+Switchback (1997)	2.823529411764706
+Bewegte Mann, Der (1994)	3.6666666666666665
+In the Realm of the Senses (Ai no corrida) (1976)	2.0
+Trial by Jury (1994)	2.4285714285714284
+Full Speed (1996)	3.125
+Crossfire (1947)	4.25
+Across the Sea of Time (1995)	2.75
+Raw Deal (1948)	2.0
+Frankie Starlight (1995)	2.5
+Cosi (1996)	4.0
+For Ever Mozart (1996)	2.0
+Promesse, La (1996)	3.3333333333333335
+Visitors, The (Visiteurs, Les) (1993)	3.5
+Liebelei (1933)	1.0
+Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)	3.0
+Leopard Son, The (1996)	1.0
+Gang Related (1997)	2.6875
+Best Men (1997)	3.4
+Babyfever (1994)	1.0
+Stefano Quantestorie (1993)	1.0
+Good Man in Africa, A (1994)	3.0
+Celestial Clockwork (1994)	4.0
+Commandments (1997)	2.6666666666666665
+World of Apu, The (Apur Sansar) (1959)	4.0
+Ed (1996)	1.3333333333333333
+Man in the Iron Mask, The (1998)	3.4166666666666665
+Man from Down Under, The (1943)	1.0
+Lassie (1994)	2.2857142857142856
+Mercury Rising (1998)	3.4285714285714284
+Two Bits (1995)	2.2
+Schizopolis (1996)	3.0
+Star Kid (1997)	5.0
+Mille bolle blu (1993)	1.0
+Suture (1993)	2.25
+Mondo (1996)	3.0
+Country Life (1994)	1.5
+Century (1993)	3.0
+Double Happiness (1994)	3.4285714285714284
+Sprung (1997)	2.0
+Big Bang Theory, The (1994)	4.0
+Land Before Time III: The Time of the Great Giving (1995) (V)	1.6666666666666667
+In the Army Now (1994)	2.2777777777777777
+Larger Than Life (1996)	2.3333333333333335
+Magic Hour, The (1998)	3.6
+Stranger in the House (1997)	2.4285714285714284
+Show, The (1995)	3.0
+Gilligan's Island: The Movie (1998)	1.3333333333333333
+Bliss (1997)	2.5714285714285716
+Stalker (1979)	3.5454545454545454
+Nelly & Monsieur Arnaud (1995)	3.6666666666666665
+Cure, The (1995)	3.3333333333333335
+Infinity (1996)	2.6666666666666665
+House Party 3 (1994)	2.0
+New York Cop (1996)	2.5
+Boys in Venice (1996)	1.0
+To Be or Not to Be (1942)	3.611111111111111
+Grace of My Heart (1996)	3.25
+Salut cousin! (1996)	2.0
+To Have, or Not (1995)	2.0
+Buddy (1997)	2.25
+Lay of the Land, The (1997)	2.5
+Waiting to Exhale (1995)	2.5
+Pushing Hands (1992)	2.0
+Boys (1996)	3.3333333333333335
+Terror in a Texas Town (1958)	1.0
+Carpool (1996)	2.8
+Dangerous Ground (1997)	1.75
+Winter Guest, The (1997)	3.4444444444444446
+Clean Slate (Coup de Torchon) (1981)	2.75
+Fire on the Mountain (1996)	3.0
+Touki Bouki (Journey of the Hyena) (1973)	1.0
+Dream Man (1995)	1.5
+Ciao, Professore! (1993)	2.75
+City of Industry (1997)	2.5
+Dream With the Fishes (1997)	3.142857142857143
+Aparajito (1956)	3.5714285714285716
+Next Karate Kid, The (1994)	2.4444444444444446
+Nowhere (1997)	2.3333333333333335
+I, Worst of All (Yo, la peor de todas) (1990)	1.0
+Mad Dog Time (1996)	3.0
+Amityville 3-D (1983)	1.1666666666666667
+Romper Stomper (1992)	3.0
+Baton Rouge (1988)	1.0
+Daniel Defoe's Robinson Crusoe (1996)	3.0
+Grosse Fatigue (1994)	3.25
+Burnt Offerings (1976)	2.4444444444444446
+Secret Agent, The (1996)	3.0
+Letter From Death Row, A (1998)	4.333333333333333
+Ladybird Ladybird (1994)	2.75
+Angela (1995)	3.0
+Desert Winds (1995)	4.0
+Last Summer in the Hamptons (1995)	2.3333333333333335
+Calendar Girl (1993)	2.0
+Being Human (1993)	1.75
+Broken English (1996)	2.25
+Witness (1985)	4.0
+American Dream (1990)	2.5
+Nemesis 2: Nebula (1995)	2.0
+Love Serenade (1996)	3.0
+Angel on My Shoulder (1946)	2.0
+Germinal (1993)	3.0
+Wedding Gift, The (1994)	4.0
+Here Comes Cookie (1935)	2.0
+Grateful Dead (1995)	3.5
+Underneath, The (1995)	2.75
+Hostile Intentions (1994)	1.0
+Legal Deceit (1997)	3.4
+Two or Three Things I Know About Her (1966)	3.75
+Blood For Dracula (Andy Warhol's Dracula) (1974)	2.4
+Foreign Student (1994)	2.0
+Three Lives and Only One Death (1996)	3.0
+Amazing Panda Adventure, The (1995)	2.8
+Death in Brunswick (1991)	4.0
+Night Flier (1997)	3.7142857142857144
+Cérémonie, La (1995)	4.0
+Hungarian Fairy Tale, A (1987)	1.0
+Children of the Revolution (1996)	3.2
+Object of My Affection, The (1998)	4.0
+Vie est belle, La (Life is Rosey) (1987)	1.0
+Vermont Is For Lovers (1992)	1.0
+Gordy (1995)	1.0
+Price Above Rubies, A (1998)	3.3333333333333335
+Losing Chase (1996)	3.25
+Crude Oasis, The (1995)	1.0
+Simple Twist of Fate, A (1994)	3.2
+Above the Rim (1994)	3.0
+The Deadly Cure (1996)	3.0
+Naked in New York (1994)	1.5
+Wild Reeds (1994)	3.142857142857143
+All Things Fair (1996)	3.0
+Neon Bible, The (1995)	1.75
+Office Killer (1997)	1.0
+Sixth Man, The (1997)	3.2222222222222223
+Nina Takes a Lover (1994)	2.8333333333333335
+Blue Chips (1994)	2.6666666666666665
+Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)	3.3333333333333335
+Boys Life (1995)	3.2
+Enfer, L' (1994)	3.0
+Warriors of Virtue (1997)	3.0
+Invitation, The (Zaproszenie) (1986)	1.0
+Bhaji on the Beach (1993)	2.875
+Hush (1998)	2.0
+Chairman of the Board (1998)	2.2222222222222223
+Wooden Man's Bride, The (Wu Kui) (1994)	2.6666666666666665
+Beans of Egypt, Maine, The (1994)	3.5
+B*A*P*S (1997)	1.6666666666666667
+Spanish Prisoner, The (1997)	4.0
+Coldblooded (1995)	2.0
+Girl in the Cadillac (1995)	1.0
+Hunted, The (1995)	2.0
+Reluctant Debutante, The (1958)	3.0
+Quartier Mozart (1992)	1.0
+American Buffalo (1996)	2.6363636363636362
+A Chef in Love (1996)	4.125
+Nénette et Boni (1996)	3.5
+Leading Man, The (1996)	3.75
+Someone Else's America (1995)	5.0
+Day the Sun Turned Cold, The (Tianguo niezi) (1994)	2.0
+Big One, The (1997)	3.0
+Little City (1998)	3.5
+Open Season (1996)	2.5
+Hollow Reed (1996)	2.3333333333333335
+Tough and Deadly (1995)	3.0
+Truth or Consequences, N.M. (1997)	2.0
+Some Mother's Son (1996)	4.5
+Wend Kuuni (God's Gift) (1982)	1.0
+Nico Icon (1995)	4.0
+S.F.W. (1994)	3.0
+Lamerica (1994)	3.75
+Quiet Room, The (1996)	3.6666666666666665
+Fausto (1993)	3.0
+Guantanamera (1994)	3.75
+Entertaining Angels: The Dorothy Day Story (1996)	5.0
+Lady of Burlesque (1943)	4.0
+Sudden Manhattan (1996)	1.5
+Shopping (1994)	2.0
+Harlem (1993)	2.75
+The Courtyard (1995)	1.0
+Favor, The (1994)	2.0
+Shooter, The (1995)	2.6666666666666665
+Gate of Heavenly Peace, The (1995)	4.0
+Target (1995)	3.0
+Bitter Sugar (Azucar Amargo) (1996)	4.333333333333333
+Butcher Boy, The (1998)	4.0
+Savage Nights (Nuits fauves, Les) (1992)	3.0
+Small Faces (1995)	2.0
+Getting Even with Dad (1994)	1.6
+Time Tracers (1995)	1.5
+Johnny 100 Pesos (1993)	1.5
+New Age, The (1994)	1.0
+Walking Dead, The (1995)	2.25
+Wings of Courage (1995)	4.0
+Butterfly Kiss (1995)	1.0
+Rough Magic (1995)	2.5
+Men With Guns (1997)	3.5
+Land and Freedom (Tierra y libertad) (1995)	3.0
+King of New York (1990)	1.0
+Hana-bi (1997)	3.0
+Sliding Doors (1998)	2.6
+Angel Baby (1995)	3.75
+Underworld (1997)	2.5
+Woman in Question, The (1950)	1.0
+Symphonie pastorale, La (1946)	1.0
+MURDER and murder (1996)	2.0
+8 Heads in a Duffel Bag (1997)	3.25
+Tokyo Fist (1995)	4.0
+Twilight (1998)	2.5
+Jupiter's Wife (1994)	4.0
+Nothing Personal (1995)	2.0
+Temptress Moon (Feng Yue) (1996)	1.6666666666666667
+Saint of Fort Washington, The (1993)	5.0
+Etz Hadomim Tafus (Under the Domin Tree) (1994)	2.0
+It Takes Two (1995)	2.6666666666666665
+Paris, France (1993)	2.3333333333333335
+Low Life, The (1994)	1.0
+Mostro, Il (1994)	1.0
+Kika (1993)	2.0
+Mirage (1995)	3.0
+Bonheur, Le (1965)	2.0
+Á köldum klaka (Cold Fever) (1994)	3.0
+Sweet Nothing (1995)	3.0
+B. Monkey (1998)	3.0
+Death in the Garden (Mort en ce jardin, La) (1956)	1.0
+Ripe (1996)	2.0
+Ed's Next Move (1996)	2.6666666666666665
+Two Friends (1986)	3.0
+Men of Means (1998)	2.0
+Niagara, Niagara (1997)	2.0
+Spirits of the Dead (Tre passi nel delirio) (1968)	2.5
+Glass Shield, The (1994)	2.0
+Slingshot, The (1993)	3.5
+Scarlet Letter, The (1926)	3.0
+Condition Red (1995)	2.0
+Mat' i syn (1997)	1.0
+Careful (1992)	1.0
+They Made Me a Criminal (1939)	5.0
+Marlene Dietrich: Shadow and Light (1996)	5.0
+Shadows (Cienie) (1988)	1.0
+Wife, The (1995)	3.0
+War at Home, The (1996)	2.0
+JLG/JLG - autoportrait de décembre (1994)	1.0
+Intimate Relations (1996)	3.0
+Wedding Bell Blues (1996)	3.0
+To Cross the Rubicon (1991)	1.0
+He Walked by Night (1948)	4.0
+Pharaoh's Army (1995)	1.0
+My Favorite Season (1993)	3.6666666666666665
+Further Gesture, A (1996)	1.0
+Brother's Kiss, A (1997)	2.0
+August (1996)	1.0
+Tainted (1998)	3.0
+Hedd Wyn (1992)	1.0
+Shadow of Angels (Schatten der Engel) (1976)	1.0
+Brothers in Trouble (1995)	4.0
+You So Crazy (1994)	3.0
+Normal Life (1996)	3.0
+Next Step, The (1995)	3.0
+Sunchaser, The (1996)	3.0
+Sleepover (1995)	3.0
+Everest (1998)	4.5
+Nobody Loves Me (Keiner liebt mich) (1994)	1.0
+Getting Away With Murder (1996)	1.0
+Scream of Stone (Schrei aus Stein) (1991)	3.0
+Mamma Roma (1962)	4.0
+Eighth Day, The (1996)	3.0
+Girls Town (1996)	3.0
+Silence of the Palace, The (Saimt el Qusur) (1994)	3.0
+Dadetown (1995)	3.0
